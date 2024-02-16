@@ -14,3 +14,6 @@ Bestseller-URLs = 8.993
 
 ### amazon.co.uk
 Bestseller-URLs = 22.616
+
+### amazon.nl
+Bestseller-URLs = 16.365
