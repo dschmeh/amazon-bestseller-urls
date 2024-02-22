@@ -7,7 +7,7 @@
 ## Statistics
 
 ### amazon.de
-Bestseller-URLs = 4.462
+Bestseller-URLs = 15.787
 
 ### amazon.com
 Bestseller-URLs = 8.993
