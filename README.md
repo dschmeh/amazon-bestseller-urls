@@ -17,3 +17,51 @@ Bestseller-URLs = 22.616
 
 ### amazon.nl
 Bestseller-URLs = 16.365
+
+### amazon.ae
+Coming soon
+
+### amazon.sg
+Coming soon
+
+### amazon.com.tr
+Coming soon
+
+### amazon.es
+Coming soon
+
+### amazon.se
+Coming soon
+
+### amazon.sa
+Coming soon
+
+### amazon.pl
+Coming soon
+
+### amazon.com.mx
+Coming soon
+
+### amazon.ca
+Coming soon
+
+### amazon.co.jp
+Coming soon
+
+### amazon.it
+Coming soon
+
+### amazon.in
+Coming soon
+
+### amazon.fr
+Coming soon
+
+### amazon.com.br
+Coming soon
+
+### amazon.com.be
+Coming soon
+
+### amazon.com.au
+Coming soon
