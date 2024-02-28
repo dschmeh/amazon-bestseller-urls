@@ -22,7 +22,7 @@ Bestseller-URLs = 16.365
 Coming soon
 
 ### amazon.sg
-Coming soon
+Bestseller-URLs = 12.389
 
 ### amazon.com.tr
 Coming soon
