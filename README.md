@@ -52,7 +52,7 @@ Coming soon
 Coming soon
 
 ### amazon.in
-Coming soon
+Bestseller-URLs = 11.442
 
 ### amazon.fr
 Coming soon
