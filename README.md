@@ -61,7 +61,7 @@ Coming soon
 Coming soon
 
 ### amazon.com.be
-Coming soon
+Bestseller-URLs = 14.655
 
 ### amazon.com.au
 Coming soon
