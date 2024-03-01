@@ -25,7 +25,7 @@ Coming soon
 Bestseller-URLs = 12.389
 
 ### amazon.com.tr
-Coming soon
+Bestseller-URLs = 3.458
 
 ### amazon.es
 Coming soon
