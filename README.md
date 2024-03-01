@@ -28,7 +28,7 @@ Bestseller-URLs = 12.389
 Bestseller-URLs = 3.458
 
 ### amazon.es
-Coming soon
+Bestseller-URLs = 3.059
 
 ### amazon.se
 Bestseller-URLs = 5.583
