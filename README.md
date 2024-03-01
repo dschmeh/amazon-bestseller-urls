@@ -46,7 +46,7 @@ Coming soon
 Coming soon
 
 ### amazon.co.jp
-Coming soon
+Bestseller-URLs = 19.773
 
 ### amazon.it
 Coming soon
