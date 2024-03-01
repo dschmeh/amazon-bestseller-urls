@@ -31,7 +31,7 @@ Coming soon
 Coming soon
 
 ### amazon.se
-Coming soon
+Bestseller-URLs = 5.583
 
 ### amazon.sa
 Coming soon
