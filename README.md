@@ -55,7 +55,7 @@ Coming soon
 Bestseller-URLs = 11.442
 
 ### amazon.fr
-Coming soon
+Bestseller-URLs = 8.352
 
 ### amazon.com.br
 Coming soon
