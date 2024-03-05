@@ -37,7 +37,7 @@ Bestseller-URLs = 5.583
 Coming soon
 
 ### amazon.pl
-Coming soon
+Bestseller-URLs = 25.834
 
 ### amazon.com.mx
 Coming soon
