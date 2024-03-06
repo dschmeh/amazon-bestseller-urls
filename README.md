@@ -19,7 +19,7 @@ Bestseller-URLs = 22.616
 Bestseller-URLs = 16.365
 
 ### amazon.ae
-Coming soon
+Bestseller-URLs = 16.533
 
 ### amazon.sg
 Bestseller-URLs = 12.389
