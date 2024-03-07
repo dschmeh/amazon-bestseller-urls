@@ -34,7 +34,7 @@ Bestseller-URLs = 3.059
 Bestseller-URLs = 5.583
 
 ### amazon.sa
-Coming soon
+Bestseller-URLs = 16.647
 
 ### amazon.pl
 Bestseller-URLs = 25.834
